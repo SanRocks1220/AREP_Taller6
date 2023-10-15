@@ -80,13 +80,15 @@ Para ejecutar la aplicación, siga estos pasos:
     https://localhost:5000/hello        // Respuesta del Servidor 1
     https://localhost:5000/bonjour      // Respuesta del Servidor 2 a través del Servidor 1
     ```
+
 ![image](https://github.com/SanRocks1220/AREP_Taller7/assets/99696682/3259f76b-92f2-4067-ac1f-b0f9b6331b6a)
 ![image](https://github.com/SanRocks1220/AREP_Taller7/assets/99696682/5b68a65d-b9a7-4ff6-bae2-47ac2cf07e0b)
 
 
 ## AWS
-
-- [Demostración de Funcionamiento en AWS](https://www.youtube.com)
+![Modificación en el Código](https://github.com/SanRocks1220/AREP_Taller7/assets/99696682/fd06a0ff-2e1b-4354-bf6e-3103c100d66a)
+Aquí se encuentra el video demostrando la funcionalidad en AWS:
+- [Demostración de Funcionamiento en AWS](https://youtu.be/7J5FHVulL-E)
 
 ## Autor
 
