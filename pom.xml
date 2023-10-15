@@ -17,7 +17,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
-    <exec.mainClass>co.edu.escuelaing.arep.HelloWorld</exec.mainClass>
+    <exec.mainClass>co.edu.escuelaing.arep.Server1</exec.mainClass>
   </properties>
 
   <dependencies>
